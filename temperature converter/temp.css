@@ -1,0 +1,41 @@
+body{
+    margin:100px 120px;
+    padding:50px 100px; 
+ background:#537c7c;
+
+ }
+ h1{
+  text-align: center;
+     
+ }
+ 
+.box{
+
+   
+    
+    background:#3a526e;
+    padding:50px;
+    box-shadow: 25px 25px 75px rgba(0,0,0,0.25),10px 10px 70px rgba(0,0,0,0.25);
+
+ 
+}
+
+label{
+ font-size:2rem;
+ font-weight:500;
+ position:relative;
+
+ 
+}
+.inp{
+ 
+    text-align:center;
+    display:inline-block;
+    font-size:25px;
+    font-weight: bold;
+    
+    margin:10px 20px 30px 40px;
+    border-radius:30px;
+ 
+
+}
